@@ -4,7 +4,7 @@
 - 💻 I have a passion for building creative applications.
 - 🚀 Currently, I'm on a 30-day challenge to master JavaScript through innovative projects.
 - 🌐 Strengthening my skills on [freeCodeCamp](https://www.freecodecamp.org/).
-- 🏆 **Challenge Status:** Day 15/30 completed!
+- 🏆 **Challenge Status:** Day 2/30 completed!
 - 📂 Check out my challenge progress on [GitHub](https://github.com/dadihemasri/Javascript-DSA-challenge).
 
 Connect with me:
